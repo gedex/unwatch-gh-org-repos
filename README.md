@@ -8,6 +8,9 @@ unwatch-gh-org-repos (ugor)
 unwatch-gh-org-repos (ugor) is a command line interface to unwatch all GitHub
 organization / user repos.
 
+If you're trying to do the opposite, watch all GitHub org repos, try its
+enemy, [wagor](https://github.com/gedex/watch-all-gh-org-repos).
+
 ## Install
 
 ```
